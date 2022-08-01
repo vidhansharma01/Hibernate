@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2ndLevelCache" />
+        <module name="AccessHibernateApi" />
+        <module name="AssociationBidirectionalManyToMany" />
+        <module name="AssociationBidirectionalManyToOne" />
+        <module name="AssociationBidirectionalOneToOne" />
+        <module name="AssociationsWithAttributes" />
+        <module name="AssociationUnidirectionalManyToMany" />
+        <module name="AssociationUnidirectionalManyToOne" />
+        <module name="AssociationUnidirectionalOneToMany" />
+        <module name="AssociationUnidirectionalOneToOne" />
+        <module name="AttributeConverterForDateAndTime" />
+        <module name="CheckSQLStatementCount" />
+        <module name="CommentSQLStatements" />
+        <module name="CriteriaConstructor" />
+        <module name="CriteriaCustomFunction" />
+        <module name="CriteriaDelete" />
+        <module name="CriteriaQuery" />
+        <module name="CriteriaQueryPagination" />
+        <module name="CriteriaStandardFunction" />
+        <module name="CriteriaTuples" />
+        <module name="CriteriaUpdate" />
+        <module name="CustomEnumerationsMapping" />
+        <module name="CustomSequence" />
+        <module name="DatabaseViews" />
+        <module name="DateAndTime" />
+        <module name="DefineTableAndSchemaName" />
+        <module name="DerivedPrimaryKey" />
+        <module name="Formula" />
+        <module name="HibernateBootstrapping" />
+        <module name="HibernateJoinUnassociatedEntities" />
+        <module name="HibernateMultipleId" />
+        <module name="HibernateNaturalId" />
+        <module name="InheritanceJoined" />
+        <module name="InheritanceMappedSuperclass" />
+        <module name="InheritanceSingleTable" />
+        <module name="InheritanceTablePerClass" />
+        <module name="JoinFetch" />
+        <module name="JPABootstrapping" />
+        <module name="JPAMetamodel" />
+        <module name="JPQLAdHocQuery" />
+        <module name="JPQLConstructorExpression" />
+        <module name="JPQLCustomFunction" />
+        <module name="JPQLDelete" />
+        <module name="JPQLNamedQuery" />
+        <module name="JPQLScalarValues" />
+        <module name="JpqlStandardFunction" />
+        <module name="JPQLUpdate" />
+        <module name="LogSQLStatements" />
+        <module name="MapBasicAttributes" />
+        <module name="MapEnumerations" />
+        <module name="MapGeneratedColumns" />
+        <module name="MapNativeQueryToEntity" />
+        <module name="MapNativeQueryToPojo" />
+        <module name="MapOptionalAssociations" />
+        <module name="MapUtilDate" />
+        <module name="NamedNativeQuery" />
+        <module name="NativeQuery" />
+        <module name="OrderRelationships" />
+        <module name="PrePersistLifecycleEvent" />
+        <module name="PrimaryKey" />
+        <module name="PrimaryKeyIdentityStrategy" />
+        <module name="PrimaryKeyTableStrategy" />
+        <module name="PrimaryKeyUUID" />
+        <module name="QueryCache" />
+        <module name="QueryPagination" />
+        <module name="QueryTimeout" />
+        <module name="ResultsAsStreams" />
+        <module name="SpringBootBootstrapping" />
+        <module name="StoredProcedureQuery" />
+        <module name="TransientAttributes" />
+        <module name="Treat" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
